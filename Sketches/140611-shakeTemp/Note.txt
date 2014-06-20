@@ -1,0 +1,7 @@
+Activity 1: shake colour (5)
+Activity 2: Temperature
+
+improved shake accuracy, do not dynamically change peaks, detect beat Signal<T/2
+
+ToDo: can use sensitivity for T and P. or remove sensitivity
+

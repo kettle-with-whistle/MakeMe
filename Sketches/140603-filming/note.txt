@@ -1,0 +1,9 @@
+The release used for MakeMe-filming session
+
+In this version 
+
+Activity one: Shake a colour
+- There are 7 colours and multicolour if they shake really fast
+
+Activity two: Gesture
+- There are 5 gestures altogether. 
